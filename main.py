@@ -1,4 +1,4 @@
-# Full Project Code Mail : vatshayan007@gmail.com
+# Full
 # If you get error then Mail : vatshayan007@gmail.com
 import cv2
 import numpy as np
